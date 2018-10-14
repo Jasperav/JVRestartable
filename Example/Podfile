@@ -1,0 +1,6 @@
+use_frameworks!
+target 'JVRestartable_Tests' do
+  pod 'JVRestartable', :path => '../'
+  
+  
+end
