@@ -1,0 +1,16 @@
+PODS:
+  - JVRestartable (0.1.0)
+
+DEPENDENCIES:
+  - JVRestartable (from `../`)
+
+EXTERNAL SOURCES:
+  JVRestartable:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JVRestartable: 17adce3585db606c7f6ddad9aaefa30d5ed1ea31
+
+PODFILE CHECKSUM: 3be05df5c7132e20b1c026426e64fd55429fefa4
+
+COCOAPODS: 1.5.3
