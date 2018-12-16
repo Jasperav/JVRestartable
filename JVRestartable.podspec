@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'JVRestartable'
-  s.version          = '0.1.0'
+  s.version          = '0.1.6'
   s.summary          = 'JVRestartable.'
   s.homepage         = 'https://google.com'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
